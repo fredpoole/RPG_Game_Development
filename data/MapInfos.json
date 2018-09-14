@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"WorldMap","order":1,"parentId":0,"scrollX":553.2,"scrollY":445.2},
+{"id":2,"expanded":true,"name":"Town 1","order":2,"parentId":1,"scrollX":706.5,"scrollY":451.5},
+{"id":3,"expanded":false,"name":"Town 1 Room","order":3,"parentId":2,"scrollX":483.6,"scrollY":451.6},
+{"id":4,"expanded":false,"name":"Dungeon","order":5,"parentId":1,"scrollX":1386.5,"scrollY":1467.5},
+{"id":5,"expanded":false,"name":"OnBoat","order":6,"parentId":1,"scrollX":478,"scrollY":522},
+{"id":6,"expanded":false,"name":"CharSelect","order":7,"parentId":0,"scrollX":702.5,"scrollY":459.5},
+{"id":7,"expanded":false,"name":"Market in Town ","order":4,"parentId":2,"scrollX":702.5,"scrollY":459.5}
+]

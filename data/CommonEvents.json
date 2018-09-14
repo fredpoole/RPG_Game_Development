@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"list":[{"code":356,"indent":0,"parameters":["MonsterCards manager"]},{"code":0,"indent":0,"parameters":[]}],"name":"CardInventory","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":356,"indent":0,"parameters":["ItemBook open"]},{"code":0,"indent":0,"parameters":[]}],"name":"Open Item  Book","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":339,"indent":0,"parameters":[1,1,12,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Summon_Bat","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":122,"indent":0,"parameters":[2,2,1,2,3,6]},{"code":126,"indent":0,"parameters":[10,0,1,2]},{"code":122,"indent":0,"parameters":[7,7,0,0,0]},{"code":0,"indent":0,"parameters":[]}],"name":"GiveWood","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":122,"indent":0,"parameters":[1,1,1,2,2,7]},{"code":126,"indent":0,"parameters":[11,0,1,1]},{"code":0,"indent":0,"parameters":[]}],"name":"GiveRock","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":122,"indent":0,"parameters":[4,4,1,2,1,3]},{"code":126,"indent":0,"parameters":[3,0,1,4]},{"code":0,"indent":0,"parameters":[]}],"name":"GiveCloth","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":122,"indent":0,"parameters":[5,5,1,2,1,3]},{"code":126,"indent":0,"parameters":[1,0,1,5]},{"code":0,"indent":0,"parameters":[]}],"name":"GiveString","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":355,"indent":0,"parameters":["#================="]},{"code":655,"indent":0,"parameters":["def newFile"]},{"code":655,"indent":0,"parameters":["  file = File.open(\"Log.txt\",\"W\")"]},{"code":655,"indent":0,"parameters":["  file.close"]},{"code":655,"indent":0,"parameters":["end"]},{"code":655,"indent":0,"parameters":["#=================="]},{"code":655,"indent":0,"parameters":["def writeFile(str)"]},{"code":655,"indent":0,"parameters":[" t = Time.now"]},{"code":655,"indent":0,"parameters":["  file = File.open(\"log.txt\",\"a+\")"]},{"code":655,"indent":0,"parameters":["  file.write(\"\\n\"+str+t.strftime(\"(%M:%S)\"))"]},{"code":655,"indent":0,"parameters":["  file.close"]},{"code":655,"indent":0,"parameters":["end"]},{"code":0,"indent":0,"parameters":[]}],"name":"TrackTime","switchId":1,"trigger":0}
+]

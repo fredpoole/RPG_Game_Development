@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":3,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":23,"dataId":0,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Monster","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"蝙蝠","nickname":"","note":"<Summon Battler Image: Bat>\n<Summon Battler Scale: .5>\n","profile":""}
+]
